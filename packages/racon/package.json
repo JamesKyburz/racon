@@ -1,7 +1,7 @@
 {
-  "name": "racon-env",
+  "name": "racon",
   "version": "0.0.0",
-  "description": "permissions for process.env",
+  "description": "permissions for process.env, fs & net",
   "keywords": [
     "process.env",
     "security",

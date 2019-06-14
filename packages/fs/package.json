@@ -1,11 +1,11 @@
 {
-  "name": "racon-env",
+  "name": "racon-fs",
   "version": "0.0.0",
-  "description": "permissions for process.env",
+  "description": "permissions for fs",
   "keywords": [
-    "process.env",
+    "fs",
+    "file",
     "security",
-    "secrets",
     "resource",
     "access",
     "control"

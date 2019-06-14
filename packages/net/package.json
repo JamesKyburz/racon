@@ -1,11 +1,11 @@
 {
-  "name": "racon-env",
+  "name": "racon-net",
   "version": "0.0.0",
-  "description": "permissions for process.env",
+  "description": "permissions for network",
   "keywords": [
-    "process.env",
+    "net",
+    "network",
     "security",
-    "secrets",
     "resource",
     "access",
     "control"
