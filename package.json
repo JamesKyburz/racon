@@ -1,0 +1,11 @@
+{
+  "name": "mono-rep",
+  "scripts": {
+    "test": "npx macleod exec npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JamesKyburz/racon"
+  },
+  "private": true
+}

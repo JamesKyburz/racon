@@ -1,0 +1,13 @@
+{
+  "name": "tests",
+  "private": true,
+  "scripts": {
+    "preinstall": "(cd module-1 && npm pack); (cd module-2 && npm pack);",
+    "test": "./test.sh"
+  },
+  "dependencies": {
+    "module-1": "file:module-1/module-1-0.0.1.tgz",
+    "module-2": "file:module-2/module-2-0.0.1.tgz"
+  },
+  "devDependencies": {}
+}

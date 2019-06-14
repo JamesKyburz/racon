@@ -1,0 +1,27 @@
+{
+  "name": "racon-env",
+  "version": "0.0.1",
+  "description": "permissions for process.env",
+  "keywords": [
+    "process.env",
+    "security",
+    "secrets",
+    "resource",
+    "access",
+    "control"
+  ],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JamesKyburz/racon"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "cd tests && npm i --no-package-lock && npm t"
+  },
+  "license": "Apache-2.0"
+}
