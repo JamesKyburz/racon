@@ -16,7 +16,8 @@ require('racon-env')({
       /^AWS/,
       'HOME',
       /^AMAZON/
-    ]
+    ],
+    write: []
   }
 })
 ```
